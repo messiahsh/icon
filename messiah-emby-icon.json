@@ -8,6 +8,18 @@
     {
       "name": "erjie图标",
       "url": "https://github.com/messiahsh/icon/blob/main/erjieicon.png?raw=true"
+    }, 
+    {
+      "name": "Ember图标",
+      "url": "https://github.com/messiahsh/icon/blob/main/ember.png?raw=true"
+    },
+    {
+      "name": "懒大王Emby",
+      "url": "https://github.com/messiahsh/icon/blob/main/ldwemby.png?raw=true"
+    },
+    {
+      "name": "BB Emby Server Group",
+      "url": "https://github.com/messiahsh/icon/blob/main/bbemby.png?raw=true"
     }
   ]
 }
